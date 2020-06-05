@@ -15,5 +15,11 @@
             "extract_dir":"QtScrcpy-win-x86-v1.3.5"
         }
     },
-    "bin":"QtScrcpy.exe"
+    "bin":"QtScrcpy.exe",
+    "shortcuts": [
+        [
+            "QtScrcpy.exe",
+            "QtScrcpy"
+        ]
+    ]
 }
