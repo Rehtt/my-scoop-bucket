@@ -1,5 +1,5 @@
 # Scoop Rehtt Bucket
 在scoop添加桶：
 ```
-scoop bucket scoop-rehtt 
+scoop bucket add scoop-rehtt "https://github.com/Rehtt/scoop-rehtt.git"
 ```
