@@ -6,13 +6,14 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/barry-ran/QtScrcpy/releases/download/v1.3.5/QtScrcpy-win-x64-v1.3.5.zip",
-            "hash":"ac6a5cc050eb40489a350902dbffbb9c26cfed8fb7d43516f7bf440ac3bfc708"
+            "hash":"ac6a5cc050eb40489a350902dbffbb9c26cfed8fb7d43516f7bf440ac3bfc708",
+            "extract_dir":"QtScrcpy-win-x64-v1.3.5"
         },
         "32bit":{
             "url":"https://github.com/barry-ran/QtScrcpy/releases/download/v1.3.5/QtScrcpy-win-x86-v1.3.5.zip",
-            "hash":"81C720B2F5572D82A73376ECAF03F58E3048EEEBA496BF0ABADD975867115B3B"
+            "hash":"81C720B2F5572D82A73376ECAF03F58E3048EEEBA496BF0ABADD975867115B3B",
+            "extract_dir":"QtScrcpy-win-x86-v1.3.5"
         }
     },
-    "bin":"QtScrcpy.exe",
-    "extract_dir":"QtScrcpy-win-x86-v1.3.5"
+    "bin":"QtScrcpy.exe"
 }
