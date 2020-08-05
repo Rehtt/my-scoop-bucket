@@ -1,0 +1,17 @@
+{
+    "version":"1.0.0",
+    "description": "QtScrcpy connects to Android devices via USB (or via TCP/IP) for display and control. It does NOT require the root privileges",
+    "homepage": "https://www.speedtest.net/",
+    "architecture": {
+        "64bit": {
+            "url": "https://bintray.com/ookla/download/download_file?file_path=ookla-speedtest-1.0.0-win64.zip"
+        }
+    },
+    "bin":"speedtest.exe",
+    "shortcuts": [
+        [
+            "speedtest.exe",
+            "speedtest"
+        ]
+    ]
+}
