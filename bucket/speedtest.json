@@ -4,11 +4,13 @@
     "homepage": "https://www.speedtest.net/",
     "architecture": {
         "64bit": {
-            "url": "https://bintray.com/ookla/download/download_file?file_path=ookla-speedtest-1.0.0-win64.zip",
-            "extract_dir":""
+            "url": "https://bintray.com/ookla/download/download_file?file_path=ookla-speedtest-1.0.0-win64.zip"
         }
     },
     "bin":"speedtest.exe",
+    "extract_to": [
+        ""
+    ],
     "shortcuts": [
         [
             "speedtest.exe",
