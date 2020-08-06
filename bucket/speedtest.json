@@ -1,6 +1,6 @@
 {
     "version":"1.0.0",
-    "description": "Test internet speed",
+    "description": "Speedtest CLI 为命令行带来 Speedtest 背后的可信技术和全球服务器网络。Speedtest CLI 专为软件开发人员、系统管理员和计算机爱好者等打造，是 Ookla® 提供技术支持的首款正式 Linux 本机 Speedtest 应用程序。",
     "homepage": "https://www.speedtest.net/",
     "url": "https://bintray.com/ookla/download/download_file?file_path=ookla-speedtest-1.0.0-win64.zip#/ookla-speedtest-1.0.0-win64.zip",
     "bin":"speedtest.exe",
