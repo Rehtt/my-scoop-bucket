@@ -7,3 +7,4 @@ scoop bucket add scoop-rehtt "https://github.com/Rehtt/scoop-rehtt.git"
 |软件名|桶中的名字|版本|
 |-|-|-|
 |QtScrcpy|qtscrcpy|1.4.1|
+|SpeedTest-cli|speedtest|1.0.0|
