@@ -8,3 +8,4 @@ scoop bucket add scoop-rehtt "https://github.com/Rehtt/scoop-rehtt.git"
 |-|-|-|
 |QtScrcpy|qtscrcpy|1.4.3|
 |SpeedTest-cli|speedtest|1.0.0|
+|tcping|tcping|0.39|
