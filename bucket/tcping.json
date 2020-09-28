@@ -3,9 +3,7 @@
     "description": "An implementation of ping-over-tcp for the win32 console. Also includes http get/post support.",
     "homepage": "https://www.elifulkerson.com/projects/",
     "license": "The code for this program is available under the GPL",
-    "architecture": {
-        "url": "https://download.elifulkerson.com//files/tcping/0.39/tcping.exe"
-    },
+        "url": "https://download.elifulkerson.com//files/tcping/0.39/tcping.exe",
     "bin": "tcping.exe",
     "shortcuts": [
         [
