@@ -19,5 +19,11 @@
             "QtScrcpy.exe",
             "QtScrcpy"
         ]
-    ]
+    ],
+    "checkver": {
+        "github": "https://github.com/barry-ran/QtScrcpy"
+    },
+    "autoupdate": {
+        "url": "https://github.com/barry-ran/QtScrcpy/releases/download/v$version/QtScrcpy-win-x86-v$version.zip"
+    }
 }
