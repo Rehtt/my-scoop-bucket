@@ -6,19 +6,26 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/rehtt/tcping/releases/download/v0.2.0/tcping_0.2.0_windows_amd64.exe",
-            "bin":"tcping_0.2.0_windows_amd64.exe"
+            "bin":"tcping_0.2.0_windows_amd64.exe",
+            "shortcuts": [
+                [
+                    "tcping.exe",
+                    "tcping"
+                ]
+            ]
         },
         "32bit": {
             "url": "https://github.com/rehtt/tcping/releases/download/v0.2.0/tcping_0.2.0_windows_386.exe",
-            "bin":"tcping_0.2.0_windows_386.exe"
+            "bin":"tcping_0.2.0_windows_386.exe",
+            "shortcuts": [
+                [
+                    "tcping.exe",
+                    "tcping"
+                ]
+            ]
         }
     },
-    "shortcuts": [
-        [
-            "tcping.exe",
-            "tcping"
-        ]
-    ],
+    
     "checkver": {
         "github": "https://github.com/rehtt/tcping"
     },
