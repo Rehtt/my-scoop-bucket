@@ -1,6 +1,6 @@
 {
     "version": "5.1.8_1",
-    "description": "Electronics Design Automation Suite",
+    "description": "Electronics Design Automation Suite,use tuna mirrors",
     "homepage": "https://kicad.org",
     "license": "GPL-3.0-only",
     "architecture": {
