@@ -1,18 +1,18 @@
 {
-    "version": "1.4.5",
+    "version": "1.6.0",
     "description": "Connects to Android devices via USB (or via TCP/IP) for display and control.",
     "homepage": "https://github.com/barry-ran/QtScrcpy",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/barry-ran/QtScrcpy/releases/download/v1.4.5/QtScrcpy-win-x64-v1.4.5.zip",
-            "hash": "644d11306c2fc3f9ee7f70051005c2d576bce3aa5013f7a9ff61da31e97223e4",
-            "extract_dir": "QtScrcpy-win-x64-v1.4.5"
+            "url": "https://github.com/barry-ran/QtScrcpy/releases/download/v1.6.0/QtScrcpy-win-x64-v1.6.0.zip",
+            "hash": "f46950766d036354b08842048f7506a68bbfa06a0a8c241407157e646d272174",
+            "extract_dir": "QtScrcpy-win-x64-v1.6.0"
         },
         "32bit": {
-            "url": "https://github.com/barry-ran/QtScrcpy/releases/download/v1.4.5/QtScrcpy-win-x86-v1.4.5.zip",
-            "hash": "c6806f188ca21bd7ead9519eacd3b15eef5df6fb9d9dd5766ba74310a4b4cc25",
-            "extract_dir": "QtScrcpy-win-x86-v1.4.5"
+            "url": "https://github.com/barry-ran/QtScrcpy/releases/download/v1.6.0/QtScrcpy-win-x86-v1.6.0.zip",
+            "hash": "7d3ece1f3c444087c9b9204ea251605677ce998475cacba29b929b6e271a3ee7",
+            "extract_dir": "QtScrcpy-win-x86-v1.6.0"
         }
     },
     "bin": "QtScrcpy.exe",
